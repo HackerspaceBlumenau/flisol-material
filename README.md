@@ -2,7 +2,7 @@
 
 Banners, Certificados, Crachás e Logos do FLISoL Blumenau
 
-![logo](https://github.com/HackerspaceBlumenau/flisol-material/blob/master/logo/flisol_bnu_logo_hat.svg)
+![logo](https://github.com/HackerspaceBlumenau/flisol-material/blob/master/logos/flisol_bnu_logo_hat.svg)
 
 ## Editor SVG
 
