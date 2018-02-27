@@ -14,8 +14,8 @@
    viewBox="0 0 800 400"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="flisol_bnu_logo_novo_2017.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flisol_bnu_logo_hat_2017.svg"
    inkscape:export-filename="/run/media/alexandre/f14881f5-2376-4efc-b4df-b1a44a5f12a3/HSBNU/FLISoL/logo/flisol_bnu_logo_novo_2017.svg.png"
    inkscape:export-xdpi="25.416187"
    inkscape:export-ydpi="25.416187">
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-130.04547"
-     inkscape:cy="230.08323"
+     inkscape:cx="379.93802"
+     inkscape:cy="228.06292"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <defs
@@ -108,15 +108,15 @@
        inkscape:export-ydpi="90.690002" />
     <text
        id="text27583"
-       y="462.95807"
-       x="15.49466"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.03975677px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff8e2a;fill-opacity:1;stroke:none;stroke-width:0.93377507;enable-background:new"
+       y="432.84479"
+       x="15.951518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:78.57358551px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ff8e2a;fill-opacity:1;stroke:none;stroke-width:0.93377507;enable-background:new"
        xml:space="preserve"
-       transform="scale(1.2206724,0.81922061)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:84.03975677px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.93377507"
+       transform="scale(1.1412733,0.8762143)"
+       sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan1222"
-         x="15.49466"
-         y="462.95807">BLUMENAU 2017</tspan></text>
+         id="tspan3343"
+         x="15.951518"
+         y="432.84479">BLUMENAU 2018</tspan></text>
   </g>
 </svg>

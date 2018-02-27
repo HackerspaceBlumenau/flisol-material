@@ -14,8 +14,8 @@
    viewBox="0 0 800 400"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.0 r"
-   sodipodi:docname="flisol_bnu_logo_novo.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="flisol_bnu_logo_descricao.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="-157.77506"
-     inkscape:cy="234.12384"
+     inkscape:cx="341.00385"
+     inkscape:cy="232.10353"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <defs
@@ -63,16 +63,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.53333282px;line-height:6.04632044px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ff8e2a;fill-opacity:1;stroke:none;stroke-width:1.13114023px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="21.755257"
-       y="365.42569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.71593285px;line-height:6.04632044px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff8e2a;fill-opacity:1;stroke:none;stroke-width:1.13114023px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="24.573338"
+       y="354.16818"
        id="text5164"
-       transform="scale(1.0000512,0.9999488)"><tspan
+       transform="scale(0.9692431,1.0317329)"><tspan
          sodipodi:role="line"
          id="tspan5162"
-         x="21.755257"
-         y="365.42569"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.53333282px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#ff8e2a;fill-opacity:1;stroke-width:1.13114023px;">Festival Latino-americano de Instalação de Software Livre</tspan></text>
+         x="24.573338"
+         y="354.16818"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.71593285px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff8e2a;fill-opacity:1;stroke-width:1.13114023px">Festival Latino-americano de Instalação de Software Livre</tspan></text>
     <path
        style="fill:#de1921;fill-opacity:1;stroke-width:0.01661606"
        inkscape:connector-curvature="0"
