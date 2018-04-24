@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="flisol.svg"
-   inkscape:export-filename="/home/tatica/Downloads/afiche-flisol.png"
+   inkscape:export-filename="/home/alexandre/Documents/certificado.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -5137,7 +5137,7 @@
        xlink:href="#linearGradient3821-2-2-2-2-4-0-5-29-0-6"
        id="linearGradient26267"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71859206,0,0,1.0133803,1040.0711,835.61289)"
+       gradientTransform="matrix(0.71859206,0,0,1.0133803,1029.838,834.86609)"
        x1="-207.16689"
        y1="125.03302"
        x2="-185.29398"
@@ -5158,7 +5158,7 @@
        xlink:href="#linearGradient3821-2-2-2-2-4-0-5-29-0-6"
        id="linearGradient26269"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71859206,0,0,1.0133803,1040.0711,835.61289)"
+       gradientTransform="matrix(0.71859206,0,0,1.0133803,1029.838,834.86609)"
        x1="-316.94162"
        y1="125.75262"
        x2="-295.0687"
@@ -5179,7 +5179,7 @@
        xlink:href="#linearGradient3813-2-9-1-0-8-5-5-8-3-5-1-5"
        id="linearGradient26271"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.71859206,0,0,1.0133803,1040.0711,835.61289)"
+       gradientTransform="matrix(0.71859206,0,0,1.0133803,1029.838,834.86609)"
        x1="-323.92065"
        y1="142.65042"
        x2="-177.48558"
@@ -6456,20 +6456,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1006667"
-     inkscape:cx="508.90219"
-     inkscape:cy="370.23016"
+     inkscape:zoom="0.77828889"
+     inkscape:cx="438.87635"
+     inkscape:cy="296.59642"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     units="mm" />
+     units="mm"
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -6503,12 +6504,16 @@
        id="text3953"
        y="768.31372"
        x="525.80023"
-       style="font-size:19.50000048px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan6268">participou do Festival Latino-Americano de Instalação de Software Livre</tspan><tspan
+         id="tspan6268"
+         x="525.80023"
+         y="768.31372">participou do Festival Latino-Americano de Instalação de Software Livre</tspan><tspan
          sodipodi:role="line"
-         id="tspan6270">com carga horária de 6 horas.</tspan></text>
+         id="tspan6270"
+         x="525.80023"
+         y="792.68872">com carga horária de 8 horas.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
@@ -19640,7 +19645,7 @@
          y="1018.48">www.flisol.info</tspan></text>
     <g
        id="g26245"
-       transform="matrix(1.1563098,0,0,1.1563098,13.72186,-115.69997)">
+       transform="matrix(1.1563098,0,0,1.1563098,1.72186,-115.69997)">
       <g
          id="g6570"
          transform="matrix(0.43019531,0,0,0.43019531,-140.49694,723.84591)">
@@ -19652,14 +19657,14 @@
              id="text19950"
              y="535.65448"
              x="563.46295"
-             style="font-size:49.71686935px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:43.40903854px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans"
+             style="font-style:normal;font-weight:normal;font-size:49.71686935px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:43.40903854px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a"
                y="535.65448"
-               x="570.74573"
+               x="569.62903"
                sodipodi:role="line"
                id="tspan19956">Instalando </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a"
                y="597.80054"
                x="563.46295"
                sodipodi:role="line"
@@ -19682,11 +19687,11 @@
                sodipodi:nodetypes="ccssscc"
                inkscape:connector-curvature="0"
                id="path14499-1-0"
-               d="m 895.51659,969.23534 -4.31391,-7.58407 c 0.30569,-1.132 0.96096,-1.7814 1.85193,-2.10544 1.13938,-0.4144 1.18514,2.62024 2.85714,2.94114 1.63827,0.31441 4.30356,-5.33071 6.74989,-6.82405 2.06256,-1.25905 5.46782,2.2747 3.82466,5.69665 z"
+               d="m 885.28345,968.48854 -4.31391,-7.58407 c 0.30569,-1.132 0.96096,-1.7814 1.85193,-2.10544 1.13938,-0.4144 1.18514,2.62024 2.85714,2.94114 1.63827,0.31441 4.30356,-5.33071 6.74989,-6.82405 2.06256,-1.25905 5.46782,2.2747 3.82466,5.69665 z"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.22290802px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;letter-spacing:32.50025558px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient26267);fill-opacity:1;stroke:none" />
             <path
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.22290802px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;letter-spacing:32.50025558px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient26269);fill-opacity:1;stroke:none"
-               d="m 823.72322,969.96458 4.31392,-7.58408 c -0.30571,-1.132 -0.96098,-1.7814 -1.85195,-2.10543 -1.13938,-0.4144 -1.18514,2.62024 -2.85715,2.94114 -1.63825,0.31441 -4.30354,-5.33072 -6.74989,-6.82406 -2.06255,-1.25904 -5.46782,2.27471 -3.82464,5.69666 z"
+               d="m 813.49008,969.21778 4.31392,-7.58408 c -0.30571,-1.132 -0.96098,-1.7814 -1.85195,-2.10543 -1.13938,-0.4144 -1.18514,2.62024 -2.85715,2.94114 -1.63825,0.31441 -4.30354,-5.33072 -6.74989,-6.82406 -2.06255,-1.25904 -5.46782,2.27471 -3.82464,5.69666 z"
                id="path14501-9-4"
                inkscape:connector-curvature="0"
                sodipodi:nodetypes="ccssscc" />
@@ -19694,7 +19699,7 @@
                sodipodi:nodetypes="csccscc"
                inkscape:connector-curvature="0"
                id="path14503-6-1"
-               d="m 812.27024,990.4093 c -6.73548,-4.01016 -5.81043,-14.05286 -2.00564,-18.77906 1.46416,-1.81873 0.93302,-7.94138 2.18105,-10.12073 36.92871,21.79373 74.03273,14.83866 94.41011,-1.46186 1.80793,2.45908 1.31951,9.25526 2.85975,10.72532 8.51111,8.12317 -3.61975,20.60873 -18.38632,25.05063 -25.24676,7.4507 -54.14053,5.5575 -79.05895,-5.4143 z"
+               d="m 802.0371,989.6625 c -6.73548,-4.01016 -5.81043,-14.05286 -2.00564,-18.77906 1.46416,-1.81873 0.93302,-7.94138 2.18105,-10.12073 36.92871,21.79373 74.03273,14.83866 94.41011,-1.46186 1.80793,2.45908 1.31951,9.25526 2.85975,10.72532 8.51111,8.12317 -3.61975,20.60873 -18.38632,25.05063 -25.24676,7.4507 -54.14053,5.5575 -79.05895,-5.4143 z"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.22290802px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;text-align:start;letter-spacing:32.50025558px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient26271);fill-opacity:1;stroke:none" />
             <g
                id="g6508"
@@ -19731,7 +19736,7 @@
           </g>
           <text
              xml:space="preserve"
-             style="font-size:49.1987114px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:42.95661926px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Sans"
+             style="font-style:normal;font-weight:normal;font-size:49.1987114px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:42.95661926px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none"
              x="558.54077"
              y="270.40347"
              id="text6035"
@@ -19740,7 +19745,7 @@
                sodipodi:role="line"
                x="558.54077"
                y="270.40347"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a;font-family:Comfortaa;-inkscape-font-specification:Comfortaa Bold">Celebremos</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';text-align:center;letter-spacing:0px;text-anchor:middle;fill:#1a1a1a">Celebremos</tspan></text>
         </g>
       </g>
     </g>
@@ -19757,10 +19762,12 @@
        id="text3949"
        y="719.17194"
        x="526.18109"
-       style="font-size:47.14375019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.14374924px;line-height:125%;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          sodipodi:role="line"
-         id="tspan6250">&lt;NOME COMPLETO&gt;</tspan></text>
+         id="tspan6250"
+         x="526.18109"
+         y="719.17194" /></text>
     <text
        xml:space="preserve"
        style="font-size:27.60375023px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';"
