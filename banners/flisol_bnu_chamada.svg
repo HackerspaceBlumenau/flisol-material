@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="flisol_bnu_chamada.svg"
-   inkscape:export-filename="/home/marcus/Documentos/FLISOL/2015/Material Gráfico/banners/Poster/Poster-A3.png"
+   inkscape:export-filename="/home/alexandre/Documents/flisol2.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -702,15 +702,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="28.334588"
-     inkscape:cy="410.43708"
+     inkscape:cx="-224.52255"
+     inkscape:cy="753.29422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
-     inkscape:window-x="1920"
-     inkscape:window-y="27"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -1217,7 +1217,7 @@
          sodipodi:role="line"
          id="tspan3680"
          x="22.388275"
-         y="157.16284">28 de Abril das 09h00 às 15h00</tspan><tspan
+         y="157.16284">28 de Abril das 09h00 às 17h00</tspan><tspan
          sodipodi:role="line"
          id="tspan3682"
          x="22.388275"
@@ -1945,21 +1945,7 @@
        y="928.36218"
        x="2"
        id="image3723"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABHNCSVQICAgIfAhkiAAAAqpJREFU
-eJzt3cFygzAMRVHo9P9/ma7Y0GSwsGSbO/esE0LyRlUNttmP4zg2Yf3MPgHVMmA4A4YzYDgDhjNg
-OAOGM2A4A4b7bX3hvu+V5/HP3QW26/lkvz5qtd/nZAXDGTCcAcM19+Cr0T2st+dGj9fbs1fp8VYw
-nAHDGTDc4x58Fe0RvT2qd9wZ7bm9PXn073OyguEMGM6A4dJ6cLW7nhh9f+/nv4UVDGfAcAYM95oe
-XH0/d/XPf8oKhjNgOAOGS+vBq/XEaM/MvvZ8d/xRrGA4A4YzYLjHPXj0POCr7Pu52T199u9zsoLh
-DBjOgOGae/Bq115HrzWKjqNXYQXDGTCcAcOlrQ+uHjf2rv/NnoedPUes9/t/YwXDGTCcAcOljYN7
-e1RvT4ueT/XnZ68nfjrut4LhDBjOgOGGjYOjx1993Dz7+7WyguEMGM6A4cr2yRo9bu5VPSdr1j5b
-VjCcAcMZMFzZPlm9+0jNvjZdffxR/4NYwXAGDGfAcNPmRa+yn3Lr8aI9cnRP/sYKhjNgOAOGe3w/
-eLX9kqM9rvd+8Grj/G+sYDgDhjNguMfj4Nn7UM2+Xxw1+hkRJysYzoDhDBhuPxr/uM9eH9yrtweO
-5pwsNTFgOAOGa+7Bs7392YLZe3g4J0vbthkwngHDpa0PzlY9bs4eB2fvben6YDUxYDgDhitbHxyV
-vQdI9d6VV9X3s50XrY8MGM6A4crWB99527MO7+ZVR436/lYwnAHDGTBcWg+uVr3+9071/d+qcbsV
-DGfAcAYM95oeXD2vOXvvyexxtHOy9JEBwxkwXFoPrr62Wr3XZFT0fm72+upWVjCcAcMZMNzjHjx7
-/exV9fN7o++vfi6T42Bt22bAeAYM95r1wXrGCoYzYDgDhjNgOAOGM2A4A4YzYDgDhvsD43Oi/0b2
-bywAAAAASUVORK5CYII=
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABHNCSVQICAgIfAhkiAAAAqpJREFU eJzt3cFygzAMRVHo9P9/ma7Y0GSwsGSbO/esE0LyRlUNttmP4zg2Yf3MPgHVMmA4A4YzYDgDhjNg OAOGM2A4A4b7bX3hvu+V5/HP3QW26/lkvz5qtd/nZAXDGTCcAcM19+Cr0T2st+dGj9fbs1fp8VYw nAHDGTDc4x58Fe0RvT2qd9wZ7bm9PXn073OyguEMGM6A4dJ6cLW7nhh9f+/nv4UVDGfAcAYM95oe XH0/d/XPf8oKhjNgOAOGS+vBq/XEaM/MvvZ8d/xRrGA4A4YzYLjHPXj0POCr7Pu52T199u9zsoLh DBjOgOGae/Bq115HrzWKjqNXYQXDGTCcAcOlrQ+uHjf2rv/NnoedPUes9/t/YwXDGTCcAcOljYN7 e1RvT4ueT/XnZ68nfjrut4LhDBjOgOGGjYOjx1993Dz7+7WyguEMGM6A4cr2yRo9bu5VPSdr1j5b VjCcAcMZMFzZPlm9+0jNvjZdffxR/4NYwXAGDGfAcNPmRa+yn3Lr8aI9cnRP/sYKhjNgOAOGe3w/ eLX9kqM9rvd+8Grj/G+sYDgDhjNguMfj4Nn7UM2+Xxw1+hkRJysYzoDhDBhuPxr/uM9eH9yrtweO 5pwsNTFgOAOGa+7Bs7392YLZe3g4J0vbthkwngHDpa0PzlY9bs4eB2fvben6YDUxYDgDhitbHxyV vQdI9d6VV9X3s50XrY8MGM6A4crWB99527MO7+ZVR436/lYwnAHDGTBcWg+uVr3+9071/d+qcbsV DGfAcAYM95oeXD2vOXvvyexxtHOy9JEBwxkwXFoPrr62Wr3XZFT0fm72+upWVjCcAcMZMNzjHjx7 /exV9fN7o++vfi6T42Bt22bAeAYM95r1wXrGCoYzYDgDhjNgOAOGM2A4A4YzYDgDhvsD43Oi/0b2 bywAAAAASUVORK5CYII= "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="120"
